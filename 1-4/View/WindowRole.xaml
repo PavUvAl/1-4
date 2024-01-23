@@ -1,0 +1,39 @@
+﻿<Window x:Class="_1_4.View.WindowRole"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_1_4.View"
+        mc:Ignorable="d"
+        Title="Должности" Height="400" Width="278" Background="#FFE3EDEF" WindowStartupLocation="CenterScreen">
+    <StackPanel Margin="0,0,0,0">
+        <StackPanel Orientation="Horizontal">
+            <Button x:Name="buttonAdd" 
+                    Height="60"
+                    Width="87"
+                    Content="Добавить"
+                    Click="buttonAdd_Click" Background="#FF8E9FFF" FontFamily="Century Gothic" Foreground="White" FontSize="14"/>
+            <Button x:Name="buttonEdit" 
+                    Height="60"
+                    Width="87"
+                    Content="Изменить"
+                    Click="buttonEdit_Click" Background="#FF8E9FFF" Foreground="White" FontFamily="Century Gothic" FontSize="14"/>
+            <Button x:Name="buttonDelete" 
+                    Height="60"
+                    Width="87"
+                    Content="Удалить"
+                    Click="ButtonDelete_Click" Background="#FF8E9FFF" Foreground="White" FontFamily="Century Gothic" FontSize="14"/>
+    </StackPanel>
+        <Label FontFamily="Century Gothic" FontSize="15" HorizontalAlignment="Center">Список должностей </Label>
+        <ListView x:Name="lvRole" HorizontalAlignment="left" Background="#FF8E9FFF" BorderBrush="#FF8E9FFF" Foreground="Black">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Код должности" Width="100"
+                                        DisplayMemberBinding="{Binding ID}"/>
+                    <GridViewColumn Header="Наименование должности" 
+                                        DisplayMemberBinding="{Binding NameRole}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </StackPanel>
+</Window>

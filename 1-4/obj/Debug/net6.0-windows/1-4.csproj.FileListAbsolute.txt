@@ -1,0 +1,80 @@
+C:\Users\pasha\OneDrive\Рабочий стол\Новая папка\1-4\1-4\bin\Debug\net6.0-windows\1-4.exe
+C:\Users\pasha\OneDrive\Рабочий стол\Новая папка\1-4\1-4\bin\Debug\net6.0-windows\1-4.deps.json
+C:\Users\pasha\OneDrive\Рабочий стол\Новая папка\1-4\1-4\bin\Debug\net6.0-windows\1-4.runtimeconfig.json
+C:\Users\pasha\OneDrive\Рабочий стол\Новая папка\1-4\1-4\bin\Debug\net6.0-windows\1-4.dll
+C:\Users\pasha\OneDrive\Рабочий стол\Новая папка\1-4\1-4\bin\Debug\net6.0-windows\1-4.pdb
+C:\Users\pasha\OneDrive\Рабочий стол\Новая папка\1-4\1-4\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\pasha\OneDrive\Рабочий стол\Новая папка\1-4\1-4\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\pasha\OneDrive\Рабочий стол\Новая папка\1-4\1-4\obj\Debug\net6.0-windows\1-4_MarkupCompile.cache
+C:\Users\pasha\OneDrive\Рабочий стол\Новая папка\1-4\1-4\obj\Debug\net6.0-windows\1-4_MarkupCompile.lref
+C:\Users\pasha\OneDrive\Рабочий стол\Новая папка\1-4\1-4\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\pasha\OneDrive\Рабочий стол\Новая папка\1-4\1-4\obj\Debug\net6.0-windows\1-4.g.resources
+C:\Users\pasha\OneDrive\Рабочий стол\Новая папка\1-4\1-4\obj\Debug\net6.0-windows\1-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasha\OneDrive\Рабочий стол\Новая папка\1-4\1-4\obj\Debug\net6.0-windows\1-4.AssemblyInfoInputs.cache
+C:\Users\pasha\OneDrive\Рабочий стол\Новая папка\1-4\1-4\obj\Debug\net6.0-windows\1-4.AssemblyInfo.cs
+C:\Users\pasha\OneDrive\Рабочий стол\Новая папка\1-4\1-4\obj\Debug\net6.0-windows\1-4.csproj.CoreCompileInputs.cache
+C:\Users\pasha\OneDrive\Рабочий стол\Новая папка\1-4\1-4\obj\Debug\net6.0-windows\1-4.dll
+C:\Users\pasha\OneDrive\Рабочий стол\Новая папка\1-4\1-4\obj\Debug\net6.0-windows\refint\1-4.dll
+C:\Users\pasha\OneDrive\Рабочий стол\Новая папка\1-4\1-4\obj\Debug\net6.0-windows\1-4.pdb
+C:\Users\pasha\OneDrive\Рабочий стол\Новая папка\1-4\1-4\obj\Debug\net6.0-windows\1-4.genruntimeconfig.cache
+C:\Users\pasha\OneDrive\Рабочий стол\Новая папка\1-4\1-4\obj\Debug\net6.0-windows\ref\1-4.dll
+C:\Users\pasha\OneDrive\Рабочий стол\Новая папка\1-4\1-4\obj\Debug\net6.0-windows\View\WindowPersonal.g.cs
+C:\Users\pasha\OneDrive\Рабочий стол\Новая папка\1-4\1-4\obj\Debug\net6.0-windows\View\WindowRole.g.cs
+C:\Users\pasha\OneDrive\Рабочий стол\Новая папка\1-4\1-4\obj\Debug\net6.0-windows\View\WindowPersonal.baml
+C:\Users\pasha\OneDrive\Рабочий стол\Новая папка\1-4\1-4\obj\Debug\net6.0-windows\View\WindowRole.baml
+C:\Users\pasha\OneDrive\Рабочий стол\Разработка и сопровождение программных систем\1-4\1-4\bin\Debug\net6.0-windows\1-4.exe
+C:\Users\pasha\OneDrive\Рабочий стол\Разработка и сопровождение программных систем\1-4\1-4\bin\Debug\net6.0-windows\1-4.deps.json
+C:\Users\pasha\OneDrive\Рабочий стол\Разработка и сопровождение программных систем\1-4\1-4\bin\Debug\net6.0-windows\1-4.runtimeconfig.json
+C:\Users\pasha\OneDrive\Рабочий стол\Разработка и сопровождение программных систем\1-4\1-4\bin\Debug\net6.0-windows\1-4.dll
+C:\Users\pasha\OneDrive\Рабочий стол\Разработка и сопровождение программных систем\1-4\1-4\bin\Debug\net6.0-windows\1-4.pdb
+C:\Users\pasha\OneDrive\Рабочий стол\Разработка и сопровождение программных систем\1-4\1-4\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\pasha\OneDrive\Рабочий стол\Разработка и сопровождение программных систем\1-4\1-4\obj\Debug\net6.0-windows\View\WindowPersonal.g.cs
+C:\Users\pasha\OneDrive\Рабочий стол\Разработка и сопровождение программных систем\1-4\1-4\obj\Debug\net6.0-windows\View\WindowRole.g.cs
+C:\Users\pasha\OneDrive\Рабочий стол\Разработка и сопровождение программных систем\1-4\1-4\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\pasha\OneDrive\Рабочий стол\Разработка и сопровождение программных систем\1-4\1-4\obj\Debug\net6.0-windows\1-4_MarkupCompile.cache
+C:\Users\pasha\OneDrive\Рабочий стол\Разработка и сопровождение программных систем\1-4\1-4\obj\Debug\net6.0-windows\1-4_MarkupCompile.lref
+C:\Users\pasha\OneDrive\Рабочий стол\Разработка и сопровождение программных систем\1-4\1-4\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\pasha\OneDrive\Рабочий стол\Разработка и сопровождение программных систем\1-4\1-4\obj\Debug\net6.0-windows\View\WindowPersonal.baml
+C:\Users\pasha\OneDrive\Рабочий стол\Разработка и сопровождение программных систем\1-4\1-4\obj\Debug\net6.0-windows\View\WindowRole.baml
+C:\Users\pasha\OneDrive\Рабочий стол\Разработка и сопровождение программных систем\1-4\1-4\obj\Debug\net6.0-windows\1-4.g.resources
+C:\Users\pasha\OneDrive\Рабочий стол\Разработка и сопровождение программных систем\1-4\1-4\obj\Debug\net6.0-windows\1-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasha\OneDrive\Рабочий стол\Разработка и сопровождение программных систем\1-4\1-4\obj\Debug\net6.0-windows\1-4.AssemblyInfoInputs.cache
+C:\Users\pasha\OneDrive\Рабочий стол\Разработка и сопровождение программных систем\1-4\1-4\obj\Debug\net6.0-windows\1-4.AssemblyInfo.cs
+C:\Users\pasha\OneDrive\Рабочий стол\Разработка и сопровождение программных систем\1-4\1-4\obj\Debug\net6.0-windows\1-4.csproj.CoreCompileInputs.cache
+C:\Users\pasha\OneDrive\Рабочий стол\Разработка и сопровождение программных систем\1-4\1-4\obj\Debug\net6.0-windows\1-4.dll
+C:\Users\pasha\OneDrive\Рабочий стол\Разработка и сопровождение программных систем\1-4\1-4\obj\Debug\net6.0-windows\refint\1-4.dll
+C:\Users\pasha\OneDrive\Рабочий стол\Разработка и сопровождение программных систем\1-4\1-4\obj\Debug\net6.0-windows\1-4.pdb
+C:\Users\pasha\OneDrive\Рабочий стол\Разработка и сопровождение программных систем\1-4\1-4\obj\Debug\net6.0-windows\1-4.genruntimeconfig.cache
+C:\Users\pasha\OneDrive\Рабочий стол\Разработка и сопровождение программных систем\1-4\1-4\obj\Debug\net6.0-windows\ref\1-4.dll
+C:\Users\pasha\OneDrive\Рабочий стол\Разработка и сопровождение программных систем\1-4\1-4\obj\Debug\net6.0-windows\View\WindowNR.g.cs
+C:\Users\pasha\OneDrive\Рабочий стол\Разработка и сопровождение программных систем\1-4\1-4\obj\Debug\net6.0-windows\View\WindowNR.baml
+C:\Users\pasha\OneDrive\Рабочий стол\Разработка и сопровождение программных систем\1-4\1-4\obj\Debug\net6.0-windows\View\WindowNP.g.cs
+C:\Users\pasha\OneDrive\Рабочий стол\Разработка и сопровождение программных систем\1-4\1-4\obj\Debug\net6.0-windows\View\WindowNP.baml
+C:\Users\pasha\OneDrive\Рабочий стол\Документы\Университет\Сессия 2024\Разработка и сопровождение программных систем\1-4\1-4\bin\Debug\net6.0-windows\1-4.exe
+C:\Users\pasha\OneDrive\Рабочий стол\Документы\Университет\Сессия 2024\Разработка и сопровождение программных систем\1-4\1-4\bin\Debug\net6.0-windows\1-4.deps.json
+C:\Users\pasha\OneDrive\Рабочий стол\Документы\Университет\Сессия 2024\Разработка и сопровождение программных систем\1-4\1-4\bin\Debug\net6.0-windows\1-4.runtimeconfig.json
+C:\Users\pasha\OneDrive\Рабочий стол\Документы\Университет\Сессия 2024\Разработка и сопровождение программных систем\1-4\1-4\bin\Debug\net6.0-windows\1-4.dll
+C:\Users\pasha\OneDrive\Рабочий стол\Документы\Университет\Сессия 2024\Разработка и сопровождение программных систем\1-4\1-4\bin\Debug\net6.0-windows\1-4.pdb
+C:\Users\pasha\OneDrive\Рабочий стол\Документы\Университет\Сессия 2024\Разработка и сопровождение программных систем\1-4\1-4\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\pasha\OneDrive\Рабочий стол\Документы\Университет\Сессия 2024\Разработка и сопровождение программных систем\1-4\1-4\obj\Debug\net6.0-windows\View\WindowNP.g.cs
+C:\Users\pasha\OneDrive\Рабочий стол\Документы\Университет\Сессия 2024\Разработка и сопровождение программных систем\1-4\1-4\obj\Debug\net6.0-windows\View\WindowNR.g.cs
+C:\Users\pasha\OneDrive\Рабочий стол\Документы\Университет\Сессия 2024\Разработка и сопровождение программных систем\1-4\1-4\obj\Debug\net6.0-windows\View\WindowPersonal.g.cs
+C:\Users\pasha\OneDrive\Рабочий стол\Документы\Университет\Сессия 2024\Разработка и сопровождение программных систем\1-4\1-4\obj\Debug\net6.0-windows\View\WindowRole.g.cs
+C:\Users\pasha\OneDrive\Рабочий стол\Документы\Университет\Сессия 2024\Разработка и сопровождение программных систем\1-4\1-4\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\pasha\OneDrive\Рабочий стол\Документы\Университет\Сессия 2024\Разработка и сопровождение программных систем\1-4\1-4\obj\Debug\net6.0-windows\1-4_MarkupCompile.cache
+C:\Users\pasha\OneDrive\Рабочий стол\Документы\Университет\Сессия 2024\Разработка и сопровождение программных систем\1-4\1-4\obj\Debug\net6.0-windows\1-4_MarkupCompile.lref
+C:\Users\pasha\OneDrive\Рабочий стол\Документы\Университет\Сессия 2024\Разработка и сопровождение программных систем\1-4\1-4\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\pasha\OneDrive\Рабочий стол\Документы\Университет\Сессия 2024\Разработка и сопровождение программных систем\1-4\1-4\obj\Debug\net6.0-windows\View\WindowNP.baml
+C:\Users\pasha\OneDrive\Рабочий стол\Документы\Университет\Сессия 2024\Разработка и сопровождение программных систем\1-4\1-4\obj\Debug\net6.0-windows\View\WindowNR.baml
+C:\Users\pasha\OneDrive\Рабочий стол\Документы\Университет\Сессия 2024\Разработка и сопровождение программных систем\1-4\1-4\obj\Debug\net6.0-windows\View\WindowPersonal.baml
+C:\Users\pasha\OneDrive\Рабочий стол\Документы\Университет\Сессия 2024\Разработка и сопровождение программных систем\1-4\1-4\obj\Debug\net6.0-windows\View\WindowRole.baml
+C:\Users\pasha\OneDrive\Рабочий стол\Документы\Университет\Сессия 2024\Разработка и сопровождение программных систем\1-4\1-4\obj\Debug\net6.0-windows\1-4.g.resources
+C:\Users\pasha\OneDrive\Рабочий стол\Документы\Университет\Сессия 2024\Разработка и сопровождение программных систем\1-4\1-4\obj\Debug\net6.0-windows\1-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasha\OneDrive\Рабочий стол\Документы\Университет\Сессия 2024\Разработка и сопровождение программных систем\1-4\1-4\obj\Debug\net6.0-windows\1-4.AssemblyInfoInputs.cache
+C:\Users\pasha\OneDrive\Рабочий стол\Документы\Университет\Сессия 2024\Разработка и сопровождение программных систем\1-4\1-4\obj\Debug\net6.0-windows\1-4.AssemblyInfo.cs
+C:\Users\pasha\OneDrive\Рабочий стол\Документы\Университет\Сессия 2024\Разработка и сопровождение программных систем\1-4\1-4\obj\Debug\net6.0-windows\1-4.csproj.CoreCompileInputs.cache
+C:\Users\pasha\OneDrive\Рабочий стол\Документы\Университет\Сессия 2024\Разработка и сопровождение программных систем\1-4\1-4\obj\Debug\net6.0-windows\1-4.dll
+C:\Users\pasha\OneDrive\Рабочий стол\Документы\Университет\Сессия 2024\Разработка и сопровождение программных систем\1-4\1-4\obj\Debug\net6.0-windows\refint\1-4.dll
+C:\Users\pasha\OneDrive\Рабочий стол\Документы\Университет\Сессия 2024\Разработка и сопровождение программных систем\1-4\1-4\obj\Debug\net6.0-windows\1-4.pdb
+C:\Users\pasha\OneDrive\Рабочий стол\Документы\Университет\Сессия 2024\Разработка и сопровождение программных систем\1-4\1-4\obj\Debug\net6.0-windows\1-4.genruntimeconfig.cache
+C:\Users\pasha\OneDrive\Рабочий стол\Документы\Университет\Сессия 2024\Разработка и сопровождение программных систем\1-4\1-4\obj\Debug\net6.0-windows\ref\1-4.dll
